@@ -15,4 +15,4 @@ Skills I Will Demonstrate
 - Organizing files and folders.
 - Practising Git and GitHub for version control.
 
-This project will help me develop a solid foundation in web development.
+This project will help me develop a solid foundation in web development, so help me God.
